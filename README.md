@@ -7,7 +7,6 @@ To download clickbait, you need chrome as your browser.
     * this should bring up a page with a list of your current chrome extensions. 
 ![opening extensions](https://github.com/emzarts/clickbait-app/blob/master/extension.png)
 4. Click the **Load unpacked extension** button, and select the unzipped folder
-![loading unpacked extension](https://github.com/emzarts/clickbait-app/blob/master/load.JPG)
 5. Clickbait should show up as the first extension. 
 ![launch the app](https://github.com/emzarts/clickbait-app/blob/master/launch.JPG)
 6. Click **Launch** to start the chrome app
